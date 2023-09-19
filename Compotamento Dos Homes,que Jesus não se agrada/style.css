@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body{
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+h1{
+   text-align: center;
+ 
+   
+    
+}
+
+h2{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.877);
+    color: aliceblue;
+}
+main > li{
+    text-align: arial;
+    padding: 5px;
+   
+    
+    
+}
+p{
+    text-align: justify;
+    
+}
+ lo > li{
+    text-align: justify ;
+padding: 5px;
+    }
